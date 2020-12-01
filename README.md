@@ -1,2 +1,2 @@
 # adventofcode20
-repository for adventofcode 2020
+learning a bit of typescript through adventofcode 2020
